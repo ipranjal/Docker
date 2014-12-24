@@ -1,0 +1,10 @@
+images/
+.bash_history
+.bash_logout
+.bash_profile
+.bashrc
+.rediscli_history
+.ssh/
+.dockercfg
+.gitconfig
+
